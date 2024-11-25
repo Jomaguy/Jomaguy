@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Wed Developer and IOS Developer
 -------------------------------
 
-I am a Software developer with a Master’s in Computer Science networking and security. I also hold a Bachelor's in CS and Cybersecurity. I have experience in Python, Swift, and C++ with projects ranging from iOS game development to AI-driven spam classifiers and malware detection. I am a former D1 athlete and team leader with a passion for creating user-centered applications and driving agile processes in collaborative, high-performance environments.
+I am a Software developer with a Master’s in Computer Science networking and security. I also hold a Bachelor's in CS and Cybersecurity. I have experience in Python, Swift, Java and C/C#/C++ with projects ranging from iOS game development to AI-driven spam classifiers and malware detection. I am a former D1 athlete and team leader with a passion for creating user-centered applications and driving agile processes in collaborative, high-performance environments.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [jonathanmahrt@icloud.com](mailto:jonathanmahrtguyou@gmail.com)
