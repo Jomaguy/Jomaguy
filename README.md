@@ -8,8 +8,7 @@ I am a Software developer with a Master’s in Computer Science networking and s
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [jonathanmahrt@icloud.com](mailto:jonathanmahrtguyou@gmail.com)
-* 🧠  I'm learning Pytorch
-* 🤝  I'm open to collaborating on Interesting projects
+
 
 ### Skills
 
