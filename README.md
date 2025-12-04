@@ -6,11 +6,11 @@ Builder
 
 Focused on turning visions into reality.
 
-Current Projects
+Current Projects:
 
-MoneyPenny 
+  - MoneyPenny 
 
-Branch 
+  - Branch 
 
 
 
