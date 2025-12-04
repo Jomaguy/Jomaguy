@@ -4,7 +4,7 @@ Jonathan Mahrt Guyou
 Builder
 -------------------------------
 
-Focused on turning visions into reality.
+Turning visions into reality.
 
 Current Projects:
 
